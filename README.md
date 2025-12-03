@@ -20,7 +20,7 @@ The goal of this repository is to build a collection of useful automation tools.
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RumeshChathuranga/Python-Automation.git
    cd Python-Automation
    ```
 
