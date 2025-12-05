@@ -14,4 +14,4 @@ def get_news(country,api_key):
         results.append(article['title'])
     return results
 
-print(get_news('lk','31010a085bfb4a27b46d1fca39605834'))
+print(get_news('us','31010a085bfb4a27b46d1fca39605834'))
